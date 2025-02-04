@@ -33,3 +33,11 @@ Ensured the application was mobile-responsive and could be accessed on multiple 
 
 **Skills:** 
 UI/UX Design, Front-end Development, Responsive Design, Cross-Functional Collaboration, Prototyping, Workflow Optimization
+
+
+![image](https://github.com/user-attachments/assets/580d2caf-7896-446c-becd-f42cad6b2a6d)
+
+
+![image](https://github.com/user-attachments/assets/bd4939cd-f608-43fb-8304-c089354aea66)
+
+
