@@ -13,10 +13,6 @@ Played a pivotal role in the development of a web-based database application des
 
   -Implemented the front-end of the web application, creating functional, responsive screens for order entry, customer profiles, and status tracking.
 
-**Collaboration:** 
-
-  -Worked closely with the back-end team to ensure proper integration between the front-end interface and the database, streamlining the process for managing customer and order data.
-
 **Prototyping:** 
 
   -Created a clickable prototype to demonstrate core functionalities like customer data management, order tracking, and reporting during the team’s presentation to stakeholders.
