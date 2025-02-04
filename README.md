@@ -20,6 +20,7 @@ Played a pivotal role in the development of a web-based database application des
 **Security & Role-Based Access Control** 
 
   -Integrated role-based access control (RBAC) to ensure that users could only access the data relevant to their roles.
+  
 **Dashboard Implementation:**
 
   -Designed a dashboard for the bakery's staff to quickly view orders, customer history, and upcoming deadlines, ensuring relevant information was easily accessible in one place.
