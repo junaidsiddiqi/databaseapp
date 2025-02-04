@@ -27,11 +27,11 @@ Played a pivotal role in the development of a web-based database application des
 
 **Key Achievements:** 
 
-Reduced order tracking time by 25%, improving operational efficiency.
+-Reduced order tracking time by 25%, improving operational efficiency.
 
-Improved order accuracy and reduced errors by 35%, contributing to better customer satisfaction and retention.
+-Improved order accuracy and reduced errors by 35%, contributing to better customer satisfaction and retention.
 
-Ensured the application was mobile-responsive and could be accessed on multiple devices, accommodating the bakery’s modern needs.
+-Ensured the application was mobile-responsive and could be accessed on multiple devices, accommodating the bakery’s modern needs.
 
 **Skills:** 
 UI/UX Design, Front-end Development, Responsive Design, Cross-Functional Collaboration, Prototyping, Workflow Optimization
