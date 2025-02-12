@@ -7,15 +7,7 @@ Played a pivotal role in the development of a web-based database application des
 
 **UI/UX Design:** 
 
-  -Developed user interface mockups and designed the layout to ensure ease of use and consistency, focusing on a seamless order management experience that matches the bakery's daily operations.
-
-**Front-end Development:** 
-
-  -Implemented the front-end of the web application, creating functional, responsive screens for order entry, customer profiles, and status tracking.
-
-**Prototyping:** 
-
-  -Created a clickable prototype to demonstrate core functionalities like customer data management, order tracking, and reporting during the team’s presentation to stakeholders.
+  -Developed a user interface mockup and designed the layout to ensure ease of use and consistency, focusing on a seamless order management experience that matches the bakery's daily operations.
 
 **Security & Role-Based Access Control** 
 
